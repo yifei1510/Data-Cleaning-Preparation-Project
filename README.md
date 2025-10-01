@@ -1,4 +1,6 @@
 Data Cleaning & Preparation Project
+
+
 🔹 Project Overview
 
 This project demonstrates a comprehensive data cleansing workflow in Microsoft Excel, focused on improving the accuracy, consistency, and integrity of datasets. 
