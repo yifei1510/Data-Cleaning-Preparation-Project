@@ -28,7 +28,8 @@ Text Cleaning
 
 Applied TRIM function to remove extra/hidden spaces.
 
-Performed spell check and corrected common errors.
+<img width="940" height="428" alt="image" src="https://github.com/user-attachments/assets/f977e7e0-159e-4940-ac05-b8797dea25ae" />
+
 
 Handling Missing Values
 
@@ -36,17 +37,27 @@ Filled blank cells using bulk update techniques (e.g., Ctrl+Enter).
 
 Replaced missing entries with placeholders like TBA.
 
+<img width="940" height="495" alt="image" src="https://github.com/user-attachments/assets/0fd3e435-0383-46ea-baf3-29d3b17ad026" />
+
 Data Validation & Consistency
 
 Built dropdown lists to prevent incorrect entries.
 
+<img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/fe4568ce-8da3-45c5-97ed-3874186bea95" />
+
+
 Converted dataset into an Excel Table for structured data handling.
+<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/f72a15c3-b034-4e14-998c-9ad30f81fddf" />
+
 
 Error-Free Reporting
 
-Cleaned and standardised financial-style columns for accurate calculations.
+Cleaned and standardised columns for accurate calculations.
 
 Used Find & Replace for bulk corrections across datasets.
+
+<img width="940" height="355" alt="image" src="https://github.com/user-attachments/assets/66686b5e-b932-4cc9-8849-cc439bd1b5b9" />
+
 
 🔹 Outcome
 
@@ -62,4 +73,4 @@ Data Cleaning & Standardisation
 
 Error Handling & Accuracy Control
 
-Financial Data Preparation
+
