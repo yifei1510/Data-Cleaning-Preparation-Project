@@ -20,6 +20,8 @@ Duplicates & Errors
 
 Used Conditional Formatting and Remove Duplicates to identify and eliminate duplicate records.
 
+<img width="940" height="636" alt="image" src="https://github.com/user-attachments/assets/b86e2cf5-a891-42b1-b81b-b2877f074ee6" />
+
 Applied IFERROR to handle missing or invalid calculations gracefully.
 
 Text Cleaning
