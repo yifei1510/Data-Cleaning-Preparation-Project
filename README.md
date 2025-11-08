@@ -19,9 +19,7 @@ Methodology
 
 Data Formatting
 
-Autofit rows/columns for readability.
-
-Standardised number, date, and currency formats.
+1. Standardized formatting (dates, numbers, currency)
 
 Duplicates & Errors
 
