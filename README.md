@@ -1,14 +1,21 @@
-Data Cleaning & Preparation Project
+Data Cleaning & Preparation Project – Excel-Based Data Quality Improvement
 
 
-🔹 Project Overview
+Executive Summary
 
-This project demonstrates a comprehensive data cleansing workflow in Microsoft Excel, focused on improving the accuracy, consistency, and integrity of datasets. 
-The raw dataset contained a variety of common data quality issues such as duplicates, extra spaces, blank values, formatting inconsistencies, and misspellings.
+This project demonstrates how raw, messy business data can be transformed into a consistent, accurate, and analysis-ready dataset.
+Using Microsoft Excel advanced features (such as IFERROR, TRIM, Data Validation, and structured tables), this project achieved significant improvements in data quality, consistency, and reporting reliability.
+As a result, the cleaned dataset can now be used directly for business analysis, financial reporting, and dashboarding — reducing manual rework time and lowering the risk of misleading insight.
 
-The objective of this project was to transform messy, inconsistent data into a clean, structured, and analysis-ready dataset suitable for reporting and compliance purposes.
 
-🔹 Key Steps & Techniques
+Business Problem
+
+In many organizations, raw data contains duplicated values, inconsistent formatting, hidden spaces, missing values, and typographical errors.
+These issues block accurate reporting and slow down analysts.
+
+Goal: create a repeatable cleaning workflow that produces trusted data before analysis begins.
+
+Methodology
 
 Data Formatting
 
